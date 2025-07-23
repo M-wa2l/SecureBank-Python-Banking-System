@@ -89,13 +89,6 @@ This project is open source under the **MIT License**. You are free to use, modi
 
 ---
 
-## ✨ Contributions
-
-Feel free to fork the repo, make improvements, or suggest new features via pull requests. All contributions are welcome!
-
-If you're a beginner, this project can be a great way to learn GUI development, database handling, and user authentication in Python.
-
----
 
 ## 🙏 Acknowledgements
 
