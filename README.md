@@ -90,8 +90,3 @@ This project is open source under the **MIT License**. You are free to use, modi
 ---
 
 
-## 🙏 Acknowledgements
-
-Thanks to the Python and Tkinter communities for their incredible support and documentation.
-
-Special thanks to open-source developers who inspired features such as PDF generation, modular class design, and themed widgets in Tkinter.
