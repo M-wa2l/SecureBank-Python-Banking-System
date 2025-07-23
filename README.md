@@ -71,9 +71,15 @@ SecureBank/
 
 ## 🖼️ Screenshots
 
-*Coming soon...*
 
-You can capture and include screenshots of the login screen, dashboard, transaction history view, or loan application interface for a more visual README.
+<img width="1919" height="1018" alt="Screenshot 2025-07-23 123720" src="https://github.com/user-attachments/assets/3deaaff9-cefb-4cde-968f-ff562755bc07" />
+
+
+<img width="1919" height="1020" alt="Screenshot 2025-07-23 123802" src="https://github.com/user-attachments/assets/55f0800d-1dcf-456f-b6c1-076a3f564f4a" />
+
+<img width="1918" height="1017" alt="Screenshot 2025-07-23 124109" src="https://github.com/user-attachments/assets/6f1ded94-386a-4b85-abc5-0cfe69974804" />
+
+
 
 ---
 
