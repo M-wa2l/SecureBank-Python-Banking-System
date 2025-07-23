@@ -22,7 +22,7 @@ The project is modular and extensible, designed to help learners and developers 
 * Account details update
 * Create or close accounts
 * Apply for loans
-* Generate downloadable account statements (PDF)
+
 
 ### 🧑‍💼 Employee Interface
 
@@ -44,34 +44,11 @@ The project is modular and extensible, designed to help learners and developers 
 * **SQLite** for local database management
 * **hashlib** for password security (SHA-256 hashing)
 * **ttk** for styled widgets
-* *(Optional)* `fpdf` for generating account statements
+
 
 ---
 
-## 📁 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/SecureBank.git
-cd SecureBank
-```
-
-### 2. Install optional PDF library
-
-```bash
-pip install fpdf
-```
-
-### 3. Run the application
-
-```bash
-python test.py
-```
-
-This will open the SecureBank GUI. You can log in as an admin or register a new customer account. All operations are handled locally.
-
----
 
 ## 🔑 Default Admin Credentials
 
